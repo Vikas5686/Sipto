@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sipto/static/css/main.fb42074f.css",
+    "main.css": "/Sipto/static/css/main.3c20fbb0.css",
     "main.js": "/Sipto/static/js/main.680d0737.js",
     "static/js/787.841f4c7e.chunk.js": "/Sipto/static/js/787.841f4c7e.chunk.js",
     "static/media/main-img.jpg": "/Sipto/static/media/main-img.823081a1bc999166adb4.jpg",
     "index.html": "/Sipto/index.html",
-    "main.fb42074f.css.map": "/Sipto/static/css/main.fb42074f.css.map",
+    "main.3c20fbb0.css.map": "/Sipto/static/css/main.3c20fbb0.css.map",
     "main.680d0737.js.map": "/Sipto/static/js/main.680d0737.js.map",
     "787.841f4c7e.chunk.js.map": "/Sipto/static/js/787.841f4c7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb42074f.css",
+    "static/css/main.3c20fbb0.css",
     "static/js/main.680d0737.js"
   ]
 }
